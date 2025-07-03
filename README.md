@@ -2,7 +2,7 @@
 
 ## Links
 
-### GitHub Page (Frontend page)
+### GitHub Page (Frontend)
 - [https://ibrahim799-ui.github.io/coursework-frontend/](https://ibrahim799-ui.github.io/coursework-frontend/)
   
 ### Backend on Render
