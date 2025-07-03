@@ -16,5 +16,5 @@
 ## Backend End Points
 
 - [Lesson - GET] https://coursework-backend-rtd0.onrender.com/api/lessons
-- [Orders - GET] (https://coursework-backend-rtd0.onrender.com/api/orders)
+- [Orders - GET] (https://coursework-backend-rtd0.onrender.com/api/orders
 - [Orders - POST] (https://coursework-backend-rtd0.onrender.com/api/orders)
